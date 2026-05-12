@@ -125,7 +125,7 @@ py -3.11 -m pip install mediapipe==0.10.9
 
 ## 👩‍💻 Author
 
-Made by **[Your Name]** — 1st year Computer Engineering student  
+Made by **Nour Faker** — 1st year Computer Engineering student  
 Passionate about Computer Vision & AI 🤖
 
 ---
